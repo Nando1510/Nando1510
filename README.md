@@ -4,7 +4,7 @@ Hi 👋! My name is Fernando and I'm a Computer Science student from Brazil, pas
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-santos-54a758259/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nando.hanauer01@gmail.com)
 
 
 # 💻 Tech Stack:
